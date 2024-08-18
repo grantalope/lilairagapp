@@ -1,5 +1,13 @@
 # ragbox
 
+## 0.0.21
+
+### Patch Changes
+
+- 50d606b: Fix missing authentication for management api
+- 0886008: Add config for AZURE_OPENAI_API_VERSION
+- cf584e5: feat: add possibility to select custom Ollama embedding models
+
 ## 0.0.20
 
 ### Patch Changes
